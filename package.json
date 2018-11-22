@@ -1,0 +1,23 @@
+{
+  "name": "aztek",
+  "version": "1.0.0",
+  "description": "Aztek component demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergalva/aztek.git"
+  },
+  "keywords": [
+    "Aztek",
+    "Project"
+  ],
+  "author": "Serg Alva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergalva/aztek/issues"
+  },
+  "homepage": "https://github.com/sergalva/aztek#readme"
+}
